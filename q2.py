@@ -1,3 +1,9 @@
+#Name: Mohammed Hashim Bin Yahya
+#Roll no:20221429
+#B.SC(H)computer science
+#subject: Numerical optimization
+#question 1
+
 import matplotlib.pyplot as plt
 import numpy as np
 from scipy.optimize import linprog
