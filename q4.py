@@ -1,3 +1,8 @@
+#Name: Mohammed Hashim Bin Yahya
+#Roll no:20221429
+#B.SC(H)computer science
+#subject: Numerical optimization
+#question 1
 import numpy as np
 
 def objective_function(x):
