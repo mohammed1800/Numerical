@@ -1,3 +1,8 @@
+#Name: Mohammed Hashim Bin Yahya
+#Roll no:20221429
+#B.SC(H)computer science
+#subject: Numerical optimization
+#question 1
 import sympy as sp
 
 def compute_gradient_hessian():
