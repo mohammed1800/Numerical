@@ -1,3 +1,8 @@
+#Name: Mohammed Hashim Bin Yahya
+#Roll no:20221429
+#B.SC(H)computer science
+#subject: Numerical optimization
+#question 1
 from scipy.optimize import minimize
 
 # Define the objective function
